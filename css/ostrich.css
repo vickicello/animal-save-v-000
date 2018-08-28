@@ -2,7 +2,7 @@ html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1300px) {
 
   #ostrich {
     position: absolute;
