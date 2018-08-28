@@ -3,7 +3,7 @@ html {
 }
 
 @media only screen and (min-width: 1196px) {
-  
+
   #bear {
     position: absolute;
     left: 800px;
@@ -17,4 +17,3 @@ html {
 }
 
 /* Write your solution here */
-
