@@ -2,6 +2,13 @@ html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
 
+@media only screen and (max-width: 1500px) {
+
+  #ostrich {
+    top: -50px;
+  }
+}
+
 #ostrich {
   position: absolute;
   top: 50px;
@@ -9,4 +16,3 @@ html {
 }
 
 /* Write your solution here */
-
