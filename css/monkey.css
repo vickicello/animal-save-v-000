@@ -6,7 +6,7 @@ html {
 
   #monkey {
     position: absolute;
-    bottom: 100px;
+    top: 100px;
   }
 }
 
